@@ -1,0 +1,5 @@
+export enum EXPENSE_TYPES {
+  PERCENTAGE  = "PERCENTAGE",
+  EXACT = "EXACT",
+  EQUAL = "EQUAL"
+}
